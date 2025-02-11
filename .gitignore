@@ -1,0 +1,3 @@
+zig-out/
+superpage_test/
+.zig-cache/
